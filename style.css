@@ -39,11 +39,11 @@ font-weight: 800;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url();
     background-position: center;
     background-size: cover;
     min-height: 652px;
-
+    background-image: url(Hero-bg.png);
 }
 .first-content{
     width: 998px;
@@ -326,7 +326,7 @@ justify-content: space-between;
 /* ----------------------------------------------------------------------- */
 .five{
     border-radius: 16px;
-    background-image: url(/assets/handshake.jpg),linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
+    background-image: url(handshake.jpg),linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2));
     background-position: center;
     background-size: cover;
     display: flex;
